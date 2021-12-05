@@ -268,7 +268,7 @@
  	 	 	 	"eng": "Arasaka Unit Exchange"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "여기서 버프 아이템을 구입할 수 있습니다.",
+ 	 	 	 	"trans": "여기서 전역 버프 아이템을 구입할 수 있습니다.",
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	},
  	 	 	"canAccessError": {
@@ -286,7 +286,7 @@
  	 	 	 	"eng": "If you liked the game, please consider donation :)"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "화장품 상인에 액세스하려면 적어도 레벨 3 이상이어야 합니다",
+ 	 	 	 	"trans": "사이버웨어 상인에 액세스하려면 적어도 레벨 3 이상이어야 합니다",
  	 	 	 	"eng": "You need to be at least level 3 to access cosmetic merchant"
  	 	 	}
  	 	},
@@ -346,7 +346,7 @@
  	 	 	 	"eng": "Calibration Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "필요한 도구가 있는 워크 벤치를 사용하면 장비를 손볼 수 있습니다.",
+ 	 	 	 	"trans": "필요한 도구가 있는  사용하면 장비를 손볼 수 있습니다.",
  	 	 	 	"eng": "A workbench with the necessary tools allows you to tinker with your equipment."
  	 	 	},
  	 	 	"canAccessError": {
@@ -386,7 +386,7 @@
  	 	 	 	"eng": "work in printing factory"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "폐기 장비를 소모하지 않고 인쇄 랭크를 향상시키는 식으로, 인쇄 레벨을 높이는 데 이 작업이 도움이 될 겁니다.",
+ 	 	 	 	"trans": "공학 조각을 소모하지 않고 인쇄 랭크를 향상시키는 식으로, 인쇄 레벨을 높이는 데 이 작업이 도움이 될 겁니다.",
  	 	 	 	"eng": "Improve Printing Rank without sacrificing tech scrap, this may help to increase the level of your prints."
  	 	 	}
  	 	},
@@ -406,7 +406,7 @@
  	 	 	 	"eng": "Improve Ammunition"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "탄약을 손보며 더 효과적인 제조 방법 찾습니다.",
+ 	 	 	 	"trans": "탄약을 손보면서, 더 효과적인 제조 방법을 찾습니다.",
  	 	 	 	"eng": "Tinker with ammunition, to find more effective ways of crafting it."
  	 	 	}
  	 	},
@@ -422,7 +422,7 @@
  	 	},
  	 	"reverseMining": {
  	 	 	"name": {
- 	 	 	 	"trans": "암호 화폐 채굴 시작",
+ 	 	 	 	"trans": "암호 화폐 채굴 실시",
  	 	 	 	"eng": "initiate crypto mining"
  	 	 	},
  	 	 	"description": {
@@ -466,7 +466,7 @@
  	 	 	 	"eng": "Gather Gang Resource"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Help gather and manage needed resources for your clan",
+ 	 	 	 	"trans": "당신의 갱단을 위한 자원들을 모으고 관리하는것을 도우시오.",
  	 	 	 	"eng": "Help gather and manage needed resources for your gang"
  	 	 	}
  	 	},
@@ -502,7 +502,7 @@
  	 	},
  	 	"topClanExclusive": {
  	 	 	"name": {
- 	 	 	 	"trans": "보호비 수집",
+ 	 	 	 	"trans": "보호비 걷기",
  	 	 	 	"eng": "Collect Protection Fees"
  	 	 	},
  	 	 	"description": {
@@ -512,11 +512,11 @@
  	 	},
  	 	"globalQuest": {
  	 	 	"name": {
- 	 	 	 	"trans": "SL 데이터 포트리스 해킹",
+ 	 	 	 	"trans": "SL 데이터 요새 해킹",
  	 	 	 	"eng": "Hack SL Data Fortress"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "사이버 공간에서 SL(샹그릴라) 데이터 포트리스를 타겟으로 하는 협동 공격을 시작하십시오. \r\n         만약 공격이 성공한다면, 데이터 요새가 모든 사이버네틱에 연결된 사용자에게 익스플로잇을 보내도록 할 수 있습니다.",
+ 	 	 	 	"trans": "사이버 공간에서 SL(샹그릴라) 데이터 요새를 타겟으로 하는 협동 공격을 시작하십시오. \r\n         만약 공격이 성공한다면, 데이터 요새가 모든 사이버네틱에 연결된 사용자에게 익스플로잇을 보내도록 할 수 있습니다.",
  	 	 	 	"eng": "Launch a collaborative attack in cyberspace targeting the Shangri-La Data Fortress.\r\nIf the attack succeeds, it’s possible to force the Data Fortress to transmit exploits to all cybernetically connected users."
  	 	 	}
  	 	}
@@ -579,7 +579,7 @@
  	 	},
  	 	"epic": {
  	 	 	"name": {
- 	 	 	 	"trans": "에픽",
+ 	 	 	 	"trans": "",
  	 	 	 	"eng": "epic"
  	 	 	}
  	 	}
@@ -861,7 +861,7 @@
  	 	 	 	"eng": "Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "방송은 모든 Cybernetically Connected 사용자에게 이용되어 시냅스 프로세서를 오버 클럭으로 짧은 시간 동안 슈퍼 인간 정신 능력을 갖추고 있습니다. \r\n        \r\n         사용될 때 모든 플레이어에게 온라인으로 글로벌 버프를 제공하여 AFK 작업을 10 분 동안 5 % 속도로 완성 할 수 있습니다 (쌓을 수 있음)",
+ 	 	 	 	"trans": "방송은 모든 Cybernetically Connected 사용자에게 이용되어 시냅스 프로세서를 오버 클럭으로 짧은 시간 동안 모두가 슈퍼 인간 정신 능력을 갖추게 할 수 있습니다. \r\n        \r\n         사용될 때 모든 플레이어에게 온라인으로 글로벌 버프를 제공하여 AFK 작업을 10 분 동안 5 % 속도로 완성 할 수 있습니다 (쌓을 수 있음)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclocking their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +5% speed for 10 minutes (stackable)"
  	 	 	}
  	 	},
@@ -871,7 +871,7 @@
  	 	 	 	"eng": "Rare Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "방송은 모든 Cybernetically Connected 사용자에게 이용되어 시냅스 프로세서를 오버 클럭으로 짧은 시간 동안 슈퍼 인간 정신 능력을 갖추고 있습니다. \r\n        \r\n         사용될 때 모든 플레이어에게 온라인으로 글로벌 버프를 제공하여 20 분 동안 + 40 % 속도로 AFK 작업을 완료 할 수 있습니다 (쌓을 수 있음)",
+ 	 	 	 	"trans": "방송은 모든 Cybernetically Connected 사용자에게 이용되어 시냅스 프로세서를 오버 클럭으로 짧은 시간 동안 모두가 슈퍼 인간 정신 능력을 갖추게 할 수 있습니다. \r\n        \r\n         사용될 때 모든 플레이어에게 온라인으로 글로벌 버프를 제공하여 20 분 동안 + 40 % 속도로 AFK 작업을 완료 할 수 있습니다 (쌓을 수 있음)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclocking their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +40% speed for 20 minutes (stackable)"
  	 	 	}
  	 	},
@@ -881,7 +881,7 @@
  	 	 	 	"eng": "Frontal Cortex Optimization Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "모든 Cybernetically 연결된 사용자에게 이용을 방송하고 Cyberwares가 설치된 정면 피질 통합을 향상시켜 사용자의 메모리 기능을 향상시킵니다. \r\n\r\n         사용될 때 모든 플레이어에게 온라인으로 글로벌 버프를 제공하고, Exp가 20 분 동안 180 % 증가했습니다",
+ 	 	 	 	"trans": "모든 Cybernetically에 연결된 사용자에게 이용을 방송하고 Cyberwares가 설치된 정면 피질 통합을 향상시켜 사용자의 메모리 기능을 향상시킵니다. \r\n\r\n         사용될 때 모든 플레이어에게 온라인으로 글로벌 버프를 제공하고, Exp가 20 분 동안 180 % 증가했습니다",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, enhancing their Frontal Cortex integration with cyberwares installed, thus increasing memory capability of the user.\r\n\r\n        When used, gives Global Buff to all players online, increase EXP gained to 180% for 20 minutes\r\n        "
  	 	 	}
  	 	},
@@ -891,7 +891,7 @@
  	 	 	 	"eng": "Transaction Exploit Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "방송 모든 Cybernetically 연결된 사용자 인 경우 트랜잭션 알고리즘 임시로 인수하여 사용자가 BONUS ${CONFIG.CURRENCY_NAME}를받을 수 있습니다. \r\n\r\n         사용될 때 온라인으로 모든 플레이어에게 글로벌 버프를 제공하고, Bitcoin이 20 분 동안 40 % 증가합니다 (쌓을 수 있음)",
+ 	 	 	 	"trans": "방송 모든 Cybernetically에 연결된 사용자에게 트랜잭션 알고리즘을 임시로 인수하여 사용자가 BONUS ${CONFIG.CURRENCY_NAME}를받을 수 있습니다. \r\n\r\n         사용될 때 온라인으로 모든 플레이어에게 글로벌 버프를 제공하고, Bitcoin이 20 분 동안 40 % 증가합니다 (쌓을 수 있음)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, argument their transaction algorithm temporary, allowing user to receive bonus  ${Config.CURRENCY_NAME}.\r\n\r\n        When used, gives Global Buff to all players online, increase BitCoin gained by 40% for 20 minutes (stackable)\r\n        "
  	 	 	}
  	 	},
@@ -931,7 +931,7 @@
  	 	 	 	"eng": "Ammunition tech parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "암시장에서 쉽게 찾아볼 수 있는 이것은 탄약 제조에 사용되는 부품입니다. \r\n        만약 당신이 탄약 제조기술을 이해하고있다면 탄약을 만들 수 있겠죠?",
+ 	 	 	 	"trans": "암시장에서 쉽게 찾아볼 수 있는 이것은 탄약 제조에 사용되는 부품입니다. \r\n        만약 당신이 탄약 제조기술을 이해하고 있다면 탄약을 만들 수 있겠죠?",
  	 	 	 	"eng": "Ammunition tech parts, These can be commonly found circulating the black market. \r\n        You can use these to craft ammunition if you understand how."
  	 	 	}
  	 	},
@@ -1089,7 +1089,7 @@
  	 	 	 	"eng": "Calibration Safety Nano Bots"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "실험적인 나노 기계는 캘리브레이션을 실패 할 때 파괴적인 효과를 줄이고 무효화하도록 설계되었습니다. \r\n         이것이 활성화되면 모든 보정실패가 5 분 동안 아이템을 파괴하지 않습니다",
+ 	 	 	 	"trans": "실험적인 나노 기계는 교정을 실패 할 때 파괴하는 효과를 제거하고 무효화하도록 설계되었습니다. \r\n         이것이 활성화되면 모든 보정실패가 5 분 동안 아이템을 파괴하지 않습니다",
  	 	 	 	"eng": "Experimental nano machines designed to reduces and negate the destructive effect when failing calibration, \r\n        when this is activated, all calibration fails will not destroy the item for 5 minutes"
  	 	 	}
  	 	},
